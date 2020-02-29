@@ -6,5 +6,6 @@ int main() {
     for(i=0; i<999999; i++){
         cout << "_";
     }
+    cout << "To była kreska" << endl;
     return 0;
 }
