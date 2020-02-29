@@ -6,5 +6,6 @@ int main() {
     for(i=0; i<999999; i++){
         cout << "_";
     }
+    cout << "Cokolwiek";
     return 0;
 }
