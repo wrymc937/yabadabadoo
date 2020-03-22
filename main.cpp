@@ -7,5 +7,6 @@ int main() {
         cout << "_";
     }
     cout << "To była kreska" << endl;
+    cout << "test";
     return 0;
 }
